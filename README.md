@@ -42,7 +42,7 @@ Click WA logo to Join Support Group 👇
 ## Setup
 <div align="center">
 
-  ### Simple Method
+  ### Simple Method by Anshifz 369
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
